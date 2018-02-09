@@ -12,3 +12,5 @@ https://api.pinterest.com/v1/me/pins/?access_token=4949203845075970405&fields=id
 
 
 https://api.pinterest.com/v1/boards/Innerlijk/rijksmuseum-amsterdam/pins/?access_token=AWuOtMw-YQiQtZgDDbLlzzsbrvtfFRGzft-eFhBEsPw3BMA4RwAAAAA&fields=note
+
+https://api.pinterest.com/v1/boards/Innerlijk/rijksmuseum-amsterdam/pins/?access_token=AWuOtMw-YQiQtZgDDbLlzzsbrvtfFRGzft-eFhBEsPw3BMA4RwAAAAA&fields=counts,attribution,metadata,note
