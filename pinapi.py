@@ -9,3 +9,6 @@ https://api.pinterest.com/v1/me/pins/?access_token=4949203845075970405&fields=id
     client_id=4949203845075970405&
     scope=read_public,write_public&
     state=768uyFys
+
+
+https://api.pinterest.com/v1/boards/Innerlijk/rijksmuseum-amsterdam/pins/?access_token=AWuOtMw-YQiQtZgDDbLlzzsbrvtfFRGzft-eFhBEsPw3BMA4RwAAAAA&fields=note
