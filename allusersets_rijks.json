@@ -1,0 +1,226 @@
+{
+  "count": 899555,
+  "elapsedMilliseconds": 105,
+  "userSets": [
+    {
+      "links": {
+        "self": "https://www.rijksmuseum.nl/api/usersets/41006-mijn-eerste-verzameling",
+        "web": "https://www.rijksmuseum.nl/nl/mijn/verzamelingen/41006--w-j-markwat/mijn-eerste-verzameling"
+      },
+      "id": "41006-mijn-eerste-verzameling",
+      "count": 3,
+      "type": "Default",
+      "name": "Mijn eerste verzameling",
+      "slug": "mijn-eerste-verzameling",
+      "description": null,
+      "user": {
+        "id": 41006,
+        "name": "W.J. Markwat",
+        "lang": "nl",
+        "avatarUrl": null,
+        "headerUrl": null,
+        "initials": "WM"
+      },
+      "createdOn": "2013-04-04T07:55:51.797Z",
+      "updatedOn": "2015-05-13T11:33:57.927Z"
+    },
+    {
+      "links": {
+        "self": "https://www.rijksmuseum.nl/api/usersets/1980566-mijn-producten",
+        "web": "https://www.rijksmuseum.nl/nl/mijn/verzamelingen/1980566--kerlawr/mijn-producten"
+      },
+      "id": "1980566-mijn-producten",
+      "count": 0,
+      "type": "Creations",
+      "name": "Mijn Producten",
+      "slug": "mijn-producten",
+      "description": null,
+      "user": {
+        "id": 1980566,
+        "name": "Kerlawr ",
+        "lang": "en",
+        "avatarUrl": null,
+        "headerUrl": null,
+        "initials": "K"
+      },
+      "createdOn": "2017-09-08T16:30:48.953Z",
+      "updatedOn": "2017-09-08T16:30:48.953Z"
+    },
+    {
+      "links": {
+        "self": "https://www.rijksmuseum.nl/api/usersets/64629-mijn-producten",
+        "web": "https://www.rijksmuseum.nl/nl/mijn/verzamelingen/64629--koba/mijn-producten"
+      },
+      "id": "64629-mijn-producten",
+      "count": 0,
+      "type": "Creations",
+      "name": "Mijn Producten",
+      "slug": "mijn-producten",
+      "description": null,
+      "user": {
+        "id": 64629,
+        "name": "koba",
+        "lang": "nl",
+        "avatarUrl": null,
+        "headerUrl": null,
+        "initials": "K"
+      },
+      "createdOn": "2013-04-18T08:57:26.433Z",
+      "updatedOn": "2015-05-13T11:33:57.93Z"
+    },
+    {
+      "links": {
+        "self": "https://www.rijksmuseum.nl/api/usersets/1699980-mijn-eerste-verzameling",
+        "web": "https://www.rijksmuseum.nl/nl/mijn/verzamelingen/1699980--marieke/mijn-eerste-verzameling"
+      },
+      "id": "1699980-mijn-eerste-verzameling",
+      "count": 0,
+      "type": "Default",
+      "name": "Mijn eerste verzameling",
+      "slug": "mijn-eerste-verzameling",
+      "description": null,
+      "user": {
+        "id": 1699980,
+        "name": "Marieke",
+        "lang": "nl",
+        "avatarUrl": null,
+        "headerUrl": null,
+        "initials": "M"
+      },
+      "createdOn": "2016-06-21T08:32:11.467Z",
+      "updatedOn": "2016-06-21T08:32:11.467Z"
+    },
+    {
+      "links": {
+        "self": "https://www.rijksmuseum.nl/api/usersets/1564228-mijn-producten",
+        "web": "https://www.rijksmuseum.nl/nl/mijn/verzamelingen/1564228--chris-van-den-berg/mijn-producten"
+      },
+      "id": "1564228-mijn-producten",
+      "count": 0,
+      "type": "Creations",
+      "name": "Mijn Producten",
+      "slug": "mijn-producten",
+      "description": null,
+      "user": {
+        "id": 1564228,
+        "name": "Chris van den Berg",
+        "lang": "nl",
+        "avatarUrl": null,
+        "headerUrl": null,
+        "initials": "CV"
+      },
+      "createdOn": "2015-11-10T11:19:20.257Z",
+      "updatedOn": "2015-11-10T11:19:20.257Z"
+    },
+    {
+      "links": {
+        "self": "https://www.rijksmuseum.nl/api/usersets/1604257-mijn-producten",
+        "web": "https://www.rijksmuseum.nl/nl/mijn/verzamelingen/1604257--justin/mijn-producten"
+      },
+      "id": "1604257-mijn-producten",
+      "count": 0,
+      "type": "Creations",
+      "name": "Mijn Producten",
+      "slug": "mijn-producten",
+      "description": null,
+      "user": {
+        "id": 1604257,
+        "name": "Justin",
+        "lang": "nl",
+        "avatarUrl": null,
+        "headerUrl": null,
+        "initials": "J"
+      },
+      "createdOn": "2016-02-01T09:21:36.793Z",
+      "updatedOn": "2016-02-01T09:21:36.793Z"
+    },
+    {
+      "links": {
+        "self": "https://www.rijksmuseum.nl/api/usersets/62579-mijn-eerste-verzameling",
+        "web": "https://www.rijksmuseum.nl/nl/mijn/verzamelingen/62579--silke-klaassen/mijn-eerste-verzameling"
+      },
+      "id": "62579-mijn-eerste-verzameling",
+      "count": 0,
+      "type": "Default",
+      "name": "Mijn eerste verzameling",
+      "slug": "mijn-eerste-verzameling",
+      "description": null,
+      "user": {
+        "id": 62579,
+        "name": "silke klaassen",
+        "lang": "nl",
+        "avatarUrl": null,
+        "headerUrl": null,
+        "initials": "sK"
+      },
+      "createdOn": "2013-04-16T12:18:55.043Z",
+      "updatedOn": "2015-05-13T11:33:57.933Z"
+    },
+    {
+      "links": {
+        "self": "https://www.rijksmuseum.nl/api/usersets/12994-meestermatches",
+        "web": "https://www.rijksmuseum.nl/nl/mijn/verzamelingen/12994--laura/meestermatches"
+      },
+      "id": "12994-meestermatches",
+      "count": 25,
+      "type": "Default",
+      "name": "Meestermatches",
+      "slug": "meestermatches",
+      "description": null,
+      "user": {
+        "id": 12994,
+        "name": "Laura",
+        "lang": "nl",
+        "avatarUrl": null,
+        "headerUrl": null,
+        "initials": "L"
+      },
+      "createdOn": "2012-11-05T14:15:52.153Z",
+      "updatedOn": "2015-05-13T11:33:57.937Z"
+    },
+    {
+      "links": {
+        "self": "https://www.rijksmuseum.nl/api/usersets/1828588-mijn-producten",
+        "web": "https://www.rijksmuseum.nl/nl/mijn/verzamelingen/1828588--mayak/mijn-producten"
+      },
+      "id": "1828588-mijn-producten",
+      "count": 0,
+      "type": "Creations",
+      "name": "Mijn Producten",
+      "slug": "mijn-producten",
+      "description": null,
+      "user": {
+        "id": 1828588,
+        "name": "Mayak",
+        "lang": "nl",
+        "avatarUrl": null,
+        "headerUrl": null,
+        "initials": "M"
+      },
+      "createdOn": "2017-01-31T19:25:13.247Z",
+      "updatedOn": "2017-01-31T19:25:13.247Z"
+    },
+    {
+      "links": {
+        "self": "https://www.rijksmuseum.nl/api/usersets/121623-mijn-producten",
+        "web": "https://www.rijksmuseum.nl/nl/mijn/verzamelingen/121623--katrin/mijn-producten"
+      },
+      "id": "121623-mijn-producten",
+      "count": 0,
+      "type": "Creations",
+      "name": "Mijn Producten",
+      "slug": "mijn-producten",
+      "description": null,
+      "user": {
+        "id": 121623,
+        "name": "katrin",
+        "lang": "en",
+        "avatarUrl": null,
+        "headerUrl": null,
+        "initials": "K"
+      },
+      "createdOn": "2013-12-19T07:45:48.933Z",
+      "updatedOn": "2015-05-13T11:33:57.943Z"
+    }
+  ]
+}

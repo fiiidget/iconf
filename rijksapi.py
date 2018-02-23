@@ -13,3 +13,5 @@ print(response)
 # data = response.json()
 # print(type(data))
 # print(data)
+
+https://www.rijksmuseum.nl/api/collection/usersets/{userid}-{collection name}?key=jmkt4GYt&format=json
